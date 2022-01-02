@@ -1,2 +1,4 @@
-# netflix-landing-page
+# Netflix Landing Page Clone
 [![Netlify Status](https://api.netlify.com/api/v1/badges/41b300e4-4e17-469f-b405-bd545b31de54/deploy-status)](https://app.netlify.com/sites/wonderful-swirles-82777c/deploys)
+
+Cloning the Netflix landing page using HTML, CSS, and Javascript.
